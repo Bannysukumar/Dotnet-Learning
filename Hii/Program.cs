@@ -1,1 +1,1 @@
-﻿forloop.Run();
+﻿FavoriteApps.Run();
