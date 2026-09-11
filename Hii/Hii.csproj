@@ -10,6 +10,7 @@
   <ItemGroup>
     <Compile Include="..\Operators.cs" Link="Operators.cs" />
     <Compile Include="..\switch.cs" Link="switch.cs" />
+    <Compile Include="..\forloop.cs" Link="forloop.cs" />
   </ItemGroup>
 
 </Project>
