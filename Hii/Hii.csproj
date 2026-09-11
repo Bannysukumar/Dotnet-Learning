@@ -14,6 +14,8 @@
     <Compile Include="..\foreach.cs" Link="foreach.cs" />
     <Compile Include="..\while.cs" Link="while.cs" />
     <Compile Include="..\TemperatureConverter.cs" Link="TemperatureConverter.cs" />
+    <Compile Include="..\Tuples.cs" Link="Tuples.cs" />
+    <Compile Include="..\Null.cs" Link="Null.cs" />
   </ItemGroup>
 
 </Project>

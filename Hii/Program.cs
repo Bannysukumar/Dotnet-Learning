@@ -1,1 +1,1 @@
-﻿TemperatureConverter.Run();
+﻿new Null().Run();
