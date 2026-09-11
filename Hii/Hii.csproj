@@ -13,6 +13,7 @@
     <Compile Include="..\forloop.cs" Link="forloop.cs" />
     <Compile Include="..\foreach.cs" Link="foreach.cs" />
     <Compile Include="..\while.cs" Link="while.cs" />
+    <Compile Include="..\TemperatureConverter.cs" Link="TemperatureConverter.cs" />
   </ItemGroup>
 
 </Project>

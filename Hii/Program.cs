@@ -1,1 +1,1 @@
-﻿WhileLoop.Run();
+﻿TemperatureConverter.Run();
