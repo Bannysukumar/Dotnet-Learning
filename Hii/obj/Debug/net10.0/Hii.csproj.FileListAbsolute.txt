@@ -1,0 +1,15 @@
+C:\Users\munna\Downloads\.net\Hii\bin\Debug\net10.0\Hii.exe
+C:\Users\munna\Downloads\.net\Hii\bin\Debug\net10.0\Hii.deps.json
+C:\Users\munna\Downloads\.net\Hii\bin\Debug\net10.0\Hii.runtimeconfig.json
+C:\Users\munna\Downloads\.net\Hii\bin\Debug\net10.0\Hii.dll
+C:\Users\munna\Downloads\.net\Hii\bin\Debug\net10.0\Hii.pdb
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.AssemblyInfoInputs.cache
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.AssemblyInfo.cs
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.csproj.CoreCompileInputs.cache
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.sourcelink.json
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.dll
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\refint\Hii.dll
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.pdb
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\Hii.genruntimeconfig.cache
+C:\Users\munna\Downloads\.net\Hii\obj\Debug\net10.0\ref\Hii.dll
