@@ -12,6 +12,7 @@
     <Compile Include="..\switch.cs" Link="switch.cs" />
     <Compile Include="..\forloop.cs" Link="forloop.cs" />
     <Compile Include="..\foreach.cs" Link="foreach.cs" />
+    <Compile Include="..\while.cs" Link="while.cs" />
   </ItemGroup>
 
 </Project>

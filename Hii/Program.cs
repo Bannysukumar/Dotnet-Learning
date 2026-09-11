@@ -1,1 +1,1 @@
-﻿FavoriteApps.Run();
+﻿WhileLoop.Run();
