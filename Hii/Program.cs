@@ -1,1 +1,1 @@
-﻿new Null().Run();
+﻿User.Run();
