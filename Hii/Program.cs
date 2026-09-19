@@ -1,1 +1,1 @@
-﻿Decending.Run();
+﻿Program.Run();

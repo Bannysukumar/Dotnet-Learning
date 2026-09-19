@@ -19,6 +19,8 @@
     <Compile Include="..\User.cs" Link="User.cs" />
     <Compile Include="..\assending.cs" Link="assending.cs" />
     <Compile Include="..\Decending.cs" Link="Decending.cs" />
+    <Compile Include="..\appsettings.cs" Link="appsettings.cs" />
+    <Compile Include ="programme.cs" Link="programme.cs" />
   </ItemGroup>
 
 </Project>
