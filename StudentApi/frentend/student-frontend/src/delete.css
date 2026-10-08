@@ -1,0 +1,30 @@
+.delete-page {
+  width: min(100% - 32px, 900px);
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.delete-page table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.delete-page th,
+.delete-page td {
+  padding: 10px;
+  border-bottom: 1px solid var(--border);
+  text-align: left;
+}
+.deletestudent {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.deletestudent:hover {
+  background-color: #ff1a1a;
+}
+.deletestudent:disabled {
+  cursor: wait;
+  opacity: 0.7;
+}

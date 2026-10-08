@@ -1,0 +1,20 @@
+.navbar {
+    width: 100%;
+    background-color: var(--accent-bg);
+    color: var(--text);
+    display: flex;
+    justify-content: space-between;
+}
+.navbar container {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+.navbar h1 {
+    font-size: 24px;
+    margin: 0;
+}
+.navbar nav {
+    display: flex;
+    gap: 15px;
+}
